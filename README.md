@@ -5,6 +5,8 @@ SOFTWARE TESTER PORTFOLIO - Liza Paulinicz
 
 ## <a name="projects">PROJECTS</a>
 
+<a href="https://github.com/Jelisawieta/Cypress-End-to-End-Testing---Getting-Started-Udemy-project-No.3.git" target="_blank">✔️Cypress End-to-End Testing - Getting Started(Udemy), project No.3(UI, 2023/12)</a>
+
 <a href="https://github.com/Jelisawieta/Cypress-End-to-End-Testing---Getting-Started-Udemy-project-No.2-UI-2023-12-.git" target="_blank">✔️Cypress End-to-End Testing - Getting Started(Udemy), project No.2(UI, 2023/12)</a>
 
 <a href="https://github.com/Jelisawieta/Cypress-End-to-End-Testing---Getting-Started-Udemy-project-No.1.git" target="_blank">✔️Cypress End-to-End Testing - Getting Started(Udemy), project No.1(UI, 2023/12)</a>
